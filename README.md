@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari Yadharth GC</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **Authenthication process**
 - 🌱 I’m currently learning **about complete Authenthication process on Back-end.**
 - 👨‍💻 All of my projects are available at [https://yadharthportfolio.netlify.app/](https://yadharthportfolio.netlify.app/)
 - 💬 Ask me about **Reactjs as well as Nodejs.**
