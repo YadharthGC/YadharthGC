@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Full-stack developer</h3>
 
 - 🌱 I’m currently learning **about socket.io and Pusher npm .**
-- 👨‍💻 All of my projects are available at [https://yadharthportfolio.netlify.app/](https://yadharthportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yadharthgc.netlify.app/](https://yadharthgc.netlify.app/)
 - 💬 Ask me about **Reactjs as well as Nodejs.**
 - 📫 How to reach me **ganeshyadharth@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HDzlKSV14Wh6YQoSaM3yzVpLjgSNxuwY/view](https://drive.google.com/file/d/1HDzlKSV14Wh6YQoSaM3yzVpLjgSNxuwY/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ADQjf8fVVgVAu-2hCX7tFddhIBYmxZY5/view](https://drive.google.com/file/d/1ADQjf8fVVgVAu-2hCX7tFddhIBYmxZY5/view)
 - ⚡ Fun fact **I spend almost 4 hours a day listening Music.**
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left"> -->
